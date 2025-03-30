@@ -2,7 +2,7 @@
 ## Link:
 ## https://soundness.xyz/
 ## ➖ Submit your email
-
+benjaminachimi16@gmail.com
 # Generate Your Key here
 ```bash
 sudo apt update && sudo apt upgrade -y
